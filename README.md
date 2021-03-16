@@ -3,7 +3,7 @@ Southern African Development Authority (Analytics)
 
 ## Folder Structure
 
-<img src="C:\Users\Lehlohonolo Makoti\AppData\Roaming\Typora\typora-user-images\image-20210316194905722.png" alt="image-20210316194905722" style="zoom:67%;" />
+<img src="https://github.com/lmakoti/sadc-analytics/blob/main/resources/readme/folder-structure.png?raw=true" alt="folder-structure.png" style="zoom:67%;" />
 
 - **dimensions** - reference data used to build dimensional tables based on SADC data, this include the country list with customizable columns for a more comprehensive analysis including mapping features etc. 
 - **indicators** - development indicators obtained from open datasets e.g. WHO, UNDP, OurWorldInData (OWID), Kaggle etc.
@@ -34,4 +34,5 @@ The HDI simplifies and captures only part of what human development  entails. It
 
 #### Dashboard View
 
-![image-20210316195528022](C:\Users\Lehlohonolo Makoti\AppData\Roaming\Typora\typora-user-images\image-20210316195528022.png)
+![sadc-hdi.png](https://github.com/lmakoti/sadc-analytics/blob/main/resources/readme/sadc-hdi.png?raw=true)
+
